@@ -1,0 +1,4 @@
+#Third party libraries
+node_modules
+#Database connection config
+.env
